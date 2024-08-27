@@ -14,4 +14,4 @@
 *italic text*
 - RIT
 - https://www.rit.edu/
-- [RIT] (https://www.rit.edu/)
+- [RIT](https://www.rit.edu/)
