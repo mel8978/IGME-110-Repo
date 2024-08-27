@@ -15,3 +15,5 @@
 - RIT
 - https://www.rit.edu/
 - [RIT](https://www.rit.edu/)
+
+![Pizza](https://tse2.mm.bing.net/th?id=OIP.3Z4gvi7mZEpin_3jIwLHHgHaE7&pid=Api&P=0&h=220)
